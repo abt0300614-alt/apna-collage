@@ -1,3 +1,2 @@
 # apna-collage
-this our project
-hloo
+print(hloo wold)
